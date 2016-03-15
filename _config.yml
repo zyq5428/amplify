@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Amplify Demo Site
+title: One commit One day
 email: your-email@domain.com
 description: >
-  Look how fast it is
+  Makes bugs go away
 logo: "/assets/images/logo.jpg"
 baseurl: "/amplify" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
@@ -20,8 +20,9 @@ bio: >
   Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
   Ne solet nostrum complectitur pri, vis ut inani populo.
 author_image: "/assets/images/author.jpg"
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: Coding_net
+github_username:  coding
+coding_username: coding
 
 # Build settings
 markdown: kramdown
