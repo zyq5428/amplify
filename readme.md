@@ -10,4 +10,4 @@
 - Fork 本项目
 - 在 Fork 后的项目页面点击 Pages ，按照提示部署 coding-pages 分支即可
 - 在 _posts/ 下新建 markdown 文件即可完成博文新增, 提交后稍等片刻 pages 会自动更新，如果按 Ctrl+R 刷新页面没效果请暂时关闭 Pages 并重新开启。
-- Pages 文档：http://pages.coding.me
+- 绑定域名及其他，请阅读 Pages 文档：http://pages.coding.me
