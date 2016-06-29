@@ -6,23 +6,23 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: One commit One day
-email: your-email@domain.com
+title: One commit One day  # 博客标题
+email: your-email@domain.com  # 你的邮箱
 description: >
-  Makes bugs go away
-logo: "assets/images/logo.jpg"
-baseurl: "/amplify" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-paginate:	5 # The number of posts to show per page on your homepage
+  此处为博客描述    
+logo: "assets/images/logo.jpg"    #自定义 logo
+baseurl: "/amplify" # 重要：如果你绑定了自定义域名或使用了自己的用户名作为项目名，请删除本行并修改下一行
+url: "http://yourdomain.com" # 如果你绑定了自定义域名或使用了自己的用户名作为项目名，请修改本行为你的域名
+paginate:	5 # 每页显示文章数量
 
-name: 'Your Name'
+name: 'Your Name'   # 你的昵称
 bio: >
   Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
-  Ne solet nostrum complectitur pri, vis ut inani populo.
-author_image: "/assets/images/author.jpg"
+  Ne solet nostrum complectitur pri, vis ut inani populo.   
+author_image: "/assets/images/author.jpg"  #个人头像
 twitter_username: Coding_net
 github_username:  coding
-coding_username: coding
+coding_username: coding  # 你的 Coding.net 用户名
 
 # Build settings
 markdown: kramdown
